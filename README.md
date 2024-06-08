@@ -44,6 +44,7 @@
 - Projetos open-source com vários contribuidores.
 
 ### F.I.R.S.T.:
+É um acrônimo utilizado no contexto de testes de software para descrever características importantes que os testes unitários devem possuir para serem eficazes.
 - **Rápido (Fast)**: Testes devem ser rápidos para não atrasar o desenvolvimento.
 - **Isolado (Isolated)**: Testes devem ser executados isoladamente.
 - **"Repetível" (Repeatable)**: Resultados consistentes em execuções repetidas.
