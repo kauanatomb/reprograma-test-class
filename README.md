@@ -50,6 +50,12 @@
 
 ![Teste com Jest](images/Jest-image.png)
 
+- [Site Oficial do Jest](https://jestjs.io/pt-BR/)
+- [Documentação Inicial do Jest](https://jestjs.io/pt-BR/docs/getting-started)
+- [Documentação do Jest para Matchers](https://jestjs.io/pt-BR/docs/using-matchers)
+- [Documentação Explicação Mock](https://jestjs.io/pt-BR/docs/mock-functions)
+- [Documentação Explicação Hooks](https://jestjs.io/pt-BR/docs/setup-teardown)
+
 ### Quando usar:
 - Projetos com lógica complexa.
 - Funções reutilizadas em vários lugares.
