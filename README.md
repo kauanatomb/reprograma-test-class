@@ -71,10 +71,6 @@
 - A cobertura é medida em percentual, indicando quanto do código é testado.
 - Evite testar em excesso; foque em arquivos críticos e com lógica complexa.
 
-## Como usar o Jest para Cobertura
-- Configure o Jest para gerar relatórios de cobertura.
-- Meça a cobertura de arquivos críticos para garantir a estabilidade do projeto.
-
 ## Pensando em como testar
 - **O que o código precisa fazer?**
 - **Que dados ele recebe?**
