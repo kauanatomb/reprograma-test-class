@@ -1,26 +1,6 @@
 # Oficina Reprograma
 # Documentação de Testes
 
-## O que é qualidade?
-
-### Para o cliente:
-- **Bonito**: Design atraente e moderno.
-- **Funcional**: Funcionalidades úteis e usabilidade intuitiva.
-- **Barato**: Preço acessível e bom custo-benefício.
-
-### Para a empresa:
-- **Rápido**: Desenvolvimento ágil e eficiente.
-- **Barato**: Custos controlados e economicamente viável.
-- **Entrega valor ao cliente**: Produto atende ou supera as expectativas dos clientes.
-
-### Avaliação de Qualidade:
-- **Funcionalidade**: O produto faz o que foi solicitado?
-- **Precisão**: O produto executa suas funções corretamente?
-- **Performance**: O produto apresenta bom desempenho?
-- **Segurança**: O produto é seguro?
-- **Usabilidade**: O produto é fácil de usar?
-- **Adaptação às necessidades**: O produto se adapta às necessidades do usuário?
-
 ## Por que testar?
 - **Redução de Bugs**: Diminui o tempo gasto em análise e correção de erros.
 - **Facilitação da Refatoração**: Torna mais fácil melhorar o código sem introduzir novos bugs.
