@@ -78,5 +78,5 @@
 - **Que ações precisam acontecer para o código rodar?**
 
 ## Conclusão
-Testes são fundamentais para garantir a qualidade e a confiabilidade do software. Ao seguir boas práticas e utilizar ferramentas como o Jest, é possível criar um ambiente de desenvolvimento mais seguro e eficiente, que promove a entrega de valor contínuo ao cliente.
+Testes são fundamentais para garantir a qualidade e a confiabilidade do software. Ao seguir boas práticas e utilizar ferramentas como o Jest, é possível criar um ambiente de desenvolvimento mais seguro e eficiente, que promove a entrega de valor contínuo ao usuário.
 
