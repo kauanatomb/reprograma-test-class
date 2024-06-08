@@ -48,6 +48,8 @@
 
 ## Implementação com Jest
 
+![Teste com Jest](images/Jest-image.png)
+
 ### Quando usar:
 - Projetos com lógica complexa.
 - Funções reutilizadas em vários lugares.
@@ -79,6 +81,7 @@
 - Necessidade de reescrever testes se uma função ou módulo for refeito.
 
 ## Cobertura
+![Teste com cobertura](images/Coverage-jest.png)
 - A cobertura é medida em percentual, indicando quanto do código é testado.
 - Evite testar em excesso; foque em arquivos críticos e com lógica complexa.
 
